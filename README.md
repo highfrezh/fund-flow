@@ -6,9 +6,9 @@
 
 ## 📸 Screenshots
 
-| Dashboard | Add Transaction | Budget Goals |
+| Dashboard | Transactions | Budget Goals |
 |-----------|------------------|---------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Add Transaction](screenshots/add-transaction.png) | ![Budget](screenshots/budget.png) |
+| ![Dashboard](screenshots/dashboard.png) | ![Add Transaction](screenshots/transactions.png) | ![Budget](screenshots/budget.png) |
 
 ---
 
