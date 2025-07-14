@@ -104,7 +104,6 @@ Coming soon: spaCy integration for NLP-based insights.
 * [ ] Export reports to PDF
 * [ ] Multi-currency support
 * [ ] PWA for offline access
-* [ ] Role-based access (admin/freelancer)
 * [ ] Dark mode
 
 ---
