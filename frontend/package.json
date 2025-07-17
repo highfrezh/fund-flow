@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://highfrezh.github.io/fund-flow/frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,11 +8,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "axios": "^1.10.0",
+    "gh-pages": "^6.3.0",
     "jwt-decode": "^4.0.0",
     "lucide-react": "^0.525.0",
     "react": "^19.1.0",
