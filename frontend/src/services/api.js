@@ -2,7 +2,7 @@ import axios from 'axios';
 import {jwtDecode, } from 'jwt-decode';
 
 
-const BASE_URL = 'http://localhost:8000/tracker/v1/';
+const BASE_URL = 'http://16.171.44.132/tracker/v1/';
 
 const api = axios.create({
   baseURL: BASE_URL,
