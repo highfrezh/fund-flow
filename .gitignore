@@ -1,0 +1,22 @@
+# Node (React)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+
+# Python (Django)
+backend/__pycache__/
+backend/db.sqlite3
+backend/venv/
+backend/.env
+backend/.DS_Store
+
+# Global
+.env
+*.pyc
+*.log
+*.sqlite3
+*.DS_Store
+
+# VSCode
+.vscode/
