@@ -14,7 +14,7 @@ import About from './pages/About';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/fund-flow">
       <ToastContainer position="top-center" autoClose={3000} />
       <Routes>
 
