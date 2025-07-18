@@ -28,6 +28,10 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['16.171.44.132', '*']
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://fund-flow-production.up.railway.app',
+]
+
 
 # Application definition
 
